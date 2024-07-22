@@ -1,1 +1,1 @@
-screego/server:1.5.1
+mtlynch/picoshare
