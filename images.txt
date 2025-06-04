@@ -1,1 +1,1 @@
-zyplayer-doc
+zyplayer/zyplayer-doc
